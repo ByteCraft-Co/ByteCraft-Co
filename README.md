@@ -45,9 +45,10 @@ Most of my work centers on developer tooling, backend systems, and low-level und
 
 | Repository | Description |
 |-----------|-------------|
-| **ledgerkit-core** | Core libraries and foundations for LedgerKit |
-| **ledgerkit-docs** | Documentation site and project references |
-| **ByteCraft utilities** | Supporting tools and experiments |
+| **ledgerkit-core** | Core libraries and foundational tooling for the LedgerKit project |
+| **INVDB** | Inventory database system focusing on structure and data handling |
+| **code-evolution** | Experiments and studies on code growth, refactoring, and evolution |
+| **CyberSec-1** | Cybersecurity-related exercises and foundational security concepts |
 
 ## Philosophy
 
